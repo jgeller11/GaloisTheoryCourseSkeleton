@@ -1,0 +1,242 @@
+body {
+padding: 30px;
+margin: 30px;
+/* margin-top: 100px; */
+font-family: helvetica;
+font-weight: 100;
+min-height: 1000%;
+line-height: 100px;
+flex-direction: row-reverse;
+}
+
+h1 {
+text-align: center;
+}
+
+.topic {
+padding: 30px;
+margin: 30px;
+font-size: medium;
+/* max-width: 33%; */
+font-family: monospace;
+background-color: lightgray;
+vertical-align: middle;
+line-height: 100%;
+transition: 0.5s;
+display: inline-block;
+position: relative;
+top: 0px;
+left: 0px;
+}
+
+.topic:hover {
+background-color: lightgreen;
+}
+
+.base:hover {
+    background-color: palevioletred;
+}
+
+/* NEW STUFF DOWN HERE */
+/* NEW STUFF DOWN HERE */
+/* NEW STUFF DOWN HERE */
+
+
+#topic16:hover ~ #topic18{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic16:hover ~ #topic19{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic17:hover ~ #topic18{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic15:hover ~ #topic17{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic15:hover ~ #topic16{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic13:hover ~ #topic14{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic10:hover ~ #topic14{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic10:hover ~ #topic11{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic12:hover ~ #topic17{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic9:hover ~ #topic17{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic9:hover ~ #topic14{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic6:hover ~ #topic7{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic6:hover ~ #topic9{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic8:hover ~ #topic10{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic8:hover ~ #topic17{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic7:hover ~ #topic12{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic7:hover ~ #topic8{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic5:hover ~ #topic6{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic5:hover ~ #topic10{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic4:hover ~ #topic5{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic1:hover ~ #topic4{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic3:hover ~ #topic9{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic0:hover ~ #topic2{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic0:hover ~ #topic4{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
+
+
+#topic0:hover ~ #topic3{
+background-color: lightblue;
+left: -10px;
+top: -10px;
+box-shadow: 10px 10px 10px;
+}
